@@ -24,7 +24,6 @@ import Diversifysidebar from './screens/Components/Deshbord/Diversify property/D
 
 
 
-// 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  
                                                                                                       
 const App = () => {
   return (
